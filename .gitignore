@@ -1,0 +1,53 @@
+# Byte-compiled / compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# Virtual environments (if you're using venv)
+venv/
+env/
+ENV/
+
+# Dependency management
+pip-log.txt
+requirements.txt
+
+# Ignore the generated executables or binaries (if any)
+*.exe
+*.dll
+*.so
+*.out
+*.app
+
+# Ignore any build directories or artifacts
+build/
+dist/
+
+# Ignore the system-specific files and directories
+__MACOSX/
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific files
+*.swp
+*.bak
+*.log
+*.tmp
+
+# Ignore local configuration files
+config.yml
+
+# Ignore any sensitive or private information (e.g., secrets, keys)
+secrets.json
+
+# Ignore database files
+*.db
+*.sqlite
