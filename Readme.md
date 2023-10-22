@@ -2,6 +2,15 @@
 
 This is a simple implementation of the classic Tic-Tac-Toe game in Python with a graphical user interface (GUI) built using the Tkinter library.
 
+## Screenshots
+![clearpng](https://github.com/CharlesFabicki/Tic-Tac-Toe.Game/assets/103677730/a5e4298f-cbd4-46e6-a8f0-4a3150f08898)
+
+![owins](https://github.com/CharlesFabicki/Tic-Tac-Toe.Game/assets/103677730/b56bd0cb-2aaf-4348-8b9e-c42b75cf1b3c)
+
+![xwins](https://github.com/CharlesFabicki/Tic-Tac-Toe.Game/assets/103677730/4e70d494-c15e-4a17-8380-eeb65e5e4f16)
+
+![tie](https://github.com/CharlesFabicki/Tic-Tac-Toe.Game/assets/103677730/69356554-60aa-4dc3-81fe-5c110c763d34)
+
 ## How to Play
 
 Tic-Tac-Toe is a two-player game where the objective is to get three of your symbols (either 'X' or 'O') in a row, column, or diagonal on the game board. Here's how you can play:
@@ -31,7 +40,7 @@ Navigate to the project directory:
 Run the game:
 
 ```bash
-python main.py
+python Tic-Tac-Toe.py
 ```
 
 ## Usage
