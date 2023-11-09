@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game AI version
 
-This is a simple implementation of the classic Tic-Tac-Toe game in Python with a graphical user interface (GUI) built using the Tkinter library.
+This is a simple implementation of the classic Tic-Tac-Toe game with an added feature of an AI opponent. The game is built using Python and the Tkinter library for the graphical user interface.
 
 ## Screenshots
 ![You won](https://github.com/CharlesFabicki/Tic-Tac-Toe.Game.plus.AI.version/assets/103677730/bfa9ccdd-239b-414f-ad39-73894e19c0d8)
@@ -12,20 +12,19 @@ This is a simple implementation of the classic Tic-Tac-Toe game in Python with a
 
 ## How to Play
 
-Tic-Tac-Toe is a two-player game where the objective is to get three of your symbols (either 'X' or 'O') in a row, column, or diagonal on the game board. Here's how you can play:
-
-- Player 'X' starts the game.
-- Players take turns placing their symbol in an empty cell on the game board.
-- The first player to get three of their symbols in a row, column, or diagonal wins.
-- If the entire board is filled without a winner, the game ends in a tie.
+1. Run the tictactoe.py script to start the game.
+2. The game window will appear, displaying a 3x3 grid of buttons.
+3. You (Player X) and the AI (Player O) take turns to make a move by clicking on an empty cell.
+4. The game continues until one player wins or the board is full, resulting in a tie.
+5. After the game concludes, you can click the "Play Again" button to start a new game.
 
 ## Features
 
 
-- **GUI Mode**: Play the game using a graphical user interface (GUI) for an interactive gaming experience.
-- **Win Detection**: The game checks for a win or a tie and announces the result.
-- **Error Handling**: Prevents invalid moves in the GUI mode.
-- **Restart**: Restart the game after a win or a tie.
+- **Graphical User Interface**: The game comes with a simple and intuitive GUI using Tkinter.
+- **Player vs AI**: Play against an AI opponent that makes random moves.
+- **Win/Tie Detection**: The game checks for a winning condition or a tie after each move.
+- **Play Again**: Easily start a new game with the "Play Again" button.
 
 ## Installation
 
@@ -36,18 +35,18 @@ Tic-Tac-Toe is a two-player game where the objective is to get three of your sym
    ```
 Navigate to the project directory:
 
+## Usage
+
 Run the game:
 
 ```bash
 python Tic-Tac-Toe Game AI version.py
 ```
 
-## Usage
-
 GUI Mode: Click on the empty cells to make your moves. The game will display the winner or declare a tie when the game ends.
 
 ## Contributing
-Contributions to this project are welcome! If you'd like to make improvements or add features, please fork the repository and submit a pull request.
+Contributions to this project are welcome! Feel free to explore and modify the code to add more features or enhance the AI opponent! Please fork the repository and submit a pull request.
 
 ## License
 This project is licensed under the GNU License - see the LICENSE file for details.
