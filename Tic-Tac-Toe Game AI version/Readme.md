@@ -33,9 +33,10 @@ This is a simple implementation of the classic Tic-Tac-Toe game with an added fe
    ```bash
    git clone https://github.com/CharlesFabicki/Tic-Tac-Toe Game AI version.git
    ```
-Navigate to the project directory:
 
 ## Usage
+
+Navigate to the project directory:
 
 Run the game:
 
