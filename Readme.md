@@ -35,6 +35,8 @@ Tic-Tac-Toe is a two-player game where the objective is to get three of your sym
    ```bash
    git clone https://github.com/CharlesFabicki/Tic-Tac_Toe.git
    ```
+## Usage
+
 Navigate to the project directory:
 
 Run the game:
@@ -43,9 +45,8 @@ Run the game:
 python Tic-Tac-Toe.py
 ```
 
-## Usage
-
 GUI Mode: Click on the empty cells to make your moves. The game will display the winner or declare a tie when the game ends.
+
 ## Contributing
 Contributions to this project are welcome! If you'd like to make improvements or add features, please fork the repository and submit a pull request.
 
